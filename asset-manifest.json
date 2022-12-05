@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SungWook_Yoo-Portfolio/static/css/main.fb51aefd.css",
+    "main.js": "/SungWook_Yoo-Portfolio/static/js/main.58bc8b99.js",
+    "static/js/787.ddf36aa6.chunk.js": "/SungWook_Yoo-Portfolio/static/js/787.ddf36aa6.chunk.js",
+    "static/media/coding.mp4": "/SungWook_Yoo-Portfolio/static/media/coding.22acab75d452957cc30b.mp4",
+    "static/media/GZ.png": "/SungWook_Yoo-Portfolio/static/media/GZ.b957ba602635c525a9e3.png",
+    "static/media/medentra.png": "/SungWook_Yoo-Portfolio/static/media/medentra.8a0abf66bc9634d5d924.png",
+    "static/media/mba.png": "/SungWook_Yoo-Portfolio/static/media/mba.3d24705593158bd875f1.png",
+    "static/media/Bryss.png": "/SungWook_Yoo-Portfolio/static/media/Bryss.f8cefdf80010fa25aef5.png",
+    "static/media/RF.png": "/SungWook_Yoo-Portfolio/static/media/RF.af33f77bbc94f747b4ff.png",
+    "static/media/profile-pic.png": "/SungWook_Yoo-Portfolio/static/media/profile-pic.283b0015f69fa0545a1e.png",
+    "static/media/MyCite.png": "/SungWook_Yoo-Portfolio/static/media/MyCite.c035b0d72d6c0bbc17c3.png",
+    "static/media/SNAPI.png": "/SungWook_Yoo-Portfolio/static/media/SNAPI.c297f6f60055f7a77a4c.png",
+    "index.html": "/SungWook_Yoo-Portfolio/index.html",
+    "main.fb51aefd.css.map": "/SungWook_Yoo-Portfolio/static/css/main.fb51aefd.css.map",
+    "main.58bc8b99.js.map": "/SungWook_Yoo-Portfolio/static/js/main.58bc8b99.js.map",
+    "787.ddf36aa6.chunk.js.map": "/SungWook_Yoo-Portfolio/static/js/787.ddf36aa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb51aefd.css",
+    "static/js/main.58bc8b99.js"
+  ]
+}
